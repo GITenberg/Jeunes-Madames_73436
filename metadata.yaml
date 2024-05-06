@@ -1,0 +1,49 @@
+_repo: Jeunes-Madames_73436
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anatole_France
+    - https://fr.wikipedia.org/wiki/Anatole_France
+creator:
+  author:
+    agent_name: Brada
+    aliases:
+    - Puliga, Henrietta de Quigini
+    - Puliga, Henriette Consuelo Sansom, contessa di
+    birthdate: 1850
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+    wikipedia: https://fr.wikipedia.org/wiki/Brada
+description: ''
+gutenberg_issued: '2024-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73436'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.31951001652687x
+pgterms:marc905: 20231001130249brada
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bCalmann Lévy, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Jeunes Madames
+url: http://www.gutenberg.org/ebooks/73436
